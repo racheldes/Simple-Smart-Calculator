@@ -12,3 +12,5 @@ Features
 - Handling Multiple Operators: Ignores extraneous operators in sequences (e.g., 32 + - 24 = produces 8).
 - Ignoring Leading Operators: Ignores a leading "+" operator (e.g., + 32 - 24 = results in 8).
 - Overflow Handling: Returns 0 if an arithmetic operation overflows.
+
+All code provided upon request
